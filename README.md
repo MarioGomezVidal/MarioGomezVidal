@@ -5,4 +5,4 @@
 Mi CV: https://mariogomezvidal.github.io/MarioGomezVidal/
 
 
-Mi Portafolio con desafios y actividades realizadas 
+Mi Portafolio con desafios y actividades realizadas: https://mariogomezvidal.github.io/Mi-Portafolio2/
